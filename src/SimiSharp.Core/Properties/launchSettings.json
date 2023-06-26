@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SimiSharp.Core": {
+      "commandName": "Project",
+      "commandLineArgs": "-r \"\"C:\\Users\\suzuk\\OneDrive\\デスクトップ\\EINIS\\Project\\MOSSvsSimiSharp\\Anagram\\Anagram1.cs\"\" -a \"\"C:\\Users\\suzuk\\OneDrive\\デスクトップ\\EINIS\\Project\\MOSSvsSimiSharp\\Anagram\\Anagram2.cs\"\""
+    }
+  }
+}
