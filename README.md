@@ -20,6 +20,9 @@ Eventually, the cleansed IL code from both files undergoes comparison through se
 
 Our program generates a console report, delivering the calculated similarity percentages for each metric, along with the average percentage. By utilizing IL code and various similarity metrics, our program establishes an effective and fair comparison, capable of detecting sophisticated plagiarism attempts.
 
+![Test](https://github.com/Suzuki-Sotaro/EINIS-project/assets/39415489/4d4b2b8a-01eb-40b4-9656-efd709cff999)
+
+
 ## Conclusion
 
 Our program proposes an efficient method for detecting programming plagiarism by analyzing the IL representation of C# code and deploying various string similarity metrics. Future endeavors may concentrate on extending this methodology to other programming languages and enhancing efficiency.
